@@ -1,7 +1,0 @@
-recursive-include docs
-include *.md
-include VERSION
-include LICENSE
-include AUTHORS
-include setup.py
-include requirements.txt
